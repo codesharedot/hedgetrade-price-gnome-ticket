@@ -1,5 +1,8 @@
-# hedgetrade price gnome ticket 
+# hedgetrade gnome price ticker
 
-Gnome 3 desktop ticker for hedgetrade price with Python and argos. Rename to hedgetrade.1r.60s.py and put in ~/.config/argos
+Get hedgetrade price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/hedgetrade-price-gnome-ticket/](https://codesharedot.github.io/hedgetrade-price-gnome-ticket/)
 
-https://pythonbasics.org
+hedgetrade price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to hedgetrade.1r60s.py and put in ~/.config/argos
